@@ -1,5 +1,5 @@
 const utils = {
-  widthGrid(n) {
+  withGrid(n) {
     return n * 16;
   },
 };
